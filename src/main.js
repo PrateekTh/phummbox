@@ -17,11 +17,7 @@ const config = {
         autoCenter: Phaser.Scale.CENTER_BOTH
     },
     scene: [
-        Boot,
-        Preloader,
-        MainMenu,
         Game,
-        GameOver
     ]
 };
 

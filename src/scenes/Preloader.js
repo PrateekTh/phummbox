@@ -4,7 +4,7 @@ export class Preloader extends Scene
 {
     constructor ()
     {
-        super('Preloader');
+        super();
     }
 
     init ()
