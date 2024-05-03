@@ -48,7 +48,7 @@ export class Game extends Scene
             yPos += (this.boxSize + this.cellSpacing)/1.6;
         }
         
-        //It will probably be better to use the tone.js sequencer, but I implemented the basic UI for experience, ig
+        //It will probably be better to use the tone.js sequencer & transport, but I implemented the basic UI for experience, for now
     }
 
     create ()
